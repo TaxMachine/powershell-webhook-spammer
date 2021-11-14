@@ -1,4 +1,5 @@
 # Powershell Webhook Spammer
+A Discord webhook spammer written in Powershell<br>
 Spams kinda fast but i recommand using a VPN
 # How to enable Powershell scripts
 <ul>
